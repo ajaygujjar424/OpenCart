@@ -2,6 +2,13 @@
 OpenCart is an open-source e-commerce platform used to build online stores and sell 
 products.
 https://www.opencart.com/
+# Steps 
+1. Creating Test Cases.
+2. Creating Test Cycle (Regration test cycle ).
+3. Excute the Test Case Manually.
+4. Update the Test Cases ( Pass/ Fail/ Block ).
+5. Report Bugs.
+6. Reports.
 -Analyzed requirements and devised comprehensive test scenarios with 95% coverage.
 
 -Executed 40+ test cases, identifying and resolving 10+ critical bugs.
