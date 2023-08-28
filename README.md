@@ -1,4 +1,3 @@
-# 1-Project-E-commerce-Website https://www.opencart.com/
 # OpenCart Demo 
 OpenCart is an open-source e-commerce platform used to build online stores and sell 
 products.
