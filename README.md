@@ -9,6 +9,11 @@ products.
 4. Update the Test Cases ( Pass/ Fail/ Block ).
 5. Report Bugs.
 6. Generate Reports.
+# Tools
+1.Microsoft Excel.
+
+2.Jira - Zephyr Scale.
+
 # Testcase Development 
 [Testcase Development.xlsx](https://github.com/ajaygujjar424/OpenCart/files/12456752/Testcase.Development.xlsx)
 
