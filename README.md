@@ -2,7 +2,15 @@
 OpenCart is an open-source e-commerce platform used to build online stores and sell 
 products.
 https://www.opencart.com/
+ Analyzed requirements and devised comprehensive test scenarios with 95% coverage.
 
+ Executed 40+ test cases, identifying and resolving 10+ critical bugs.
+
+ Performance various black box testing Methodologies like Functionality Testing, Usability Testing.
+
+ Collaborated cross-functionally to ensure timely bug fixes, boosting product stability by 20%.
+
+ Reported 10+ and tracked defects using a bug tracking tool JIRA, Zephyr Scale.
 
 # Testcase Development 
 [Testcase Development.xlsx](https://github.com/ajaygujjar424/OpenCart/files/12456752/Testcase.Development.xlsx)
