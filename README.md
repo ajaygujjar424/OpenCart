@@ -12,3 +12,5 @@ https://www.opencart.com/
 # Test Report![Screenshot (201)](https://github.com/ajaygujjar424/OpenCart/assets/127547339/dddd22b3-935c-4de6-b3df-e1c3272f8941)
 
 [Opencart report.pdf](https://github.com/ajaygujjar424/OpenCart/files/12456711/Opencart.report.pdf)
+# Bug Report
+[OpenCart-BugReport.xlsx](https://github.com/ajaygujjar424/OpenCart/files/12456786/OpenCart-BugReport.xlsx)
